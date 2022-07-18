@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = euclides.neto@msn.com
+	name = Euclides da Costa Rego Neto
